@@ -10,7 +10,7 @@ I am a postdoctoral associate at Cornell University.
 
 ## 📥 Contact me
 
-- 📩 Email [xiaotao.shen@outlook.com](xiaotao.shen@outlook.com)
+- 📩 Email [congcy07@gmail.com](congcy07@gmail.com)
 - 🏠 Personal website [jaspershen.github.io](https://jaspershen.github.io/)
 - 🏠 Yuan Lab website 
 - 💬 WeChat [congcy007]
